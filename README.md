@@ -1,6 +1,22 @@
 # startup_namer
 
-A new Flutter project.
+Praktikum Pertemuan 23 TSA Mobile Flutter Program
+
+# Praktikum1
+
+![Screenshot Hello World](images/SS_project_1.png)
+
+# Praktikum2
+
+![Screenshot Hello World](images/SS_project_2.png)
+
+# Praktikum3
+
+![Screenshot Hello World](images/SS_project_3.png)
+
+# Praktikum4
+
+![Screenshot Hello World](images/SS_project_4.png)
 
 ## Getting Started
 
